@@ -4,8 +4,14 @@ Personal notes of Stanford CS class [CS231n: Convolutional Neural Networks for V
 
 
 
-- [ ] [Lecture 2](./Lecture 2.md)
-- [ ] [Lecture 3](./Lecture 3.md)
+- [x] [Lecture 2](./Lecture 2.md)
+- [x] [Lecture 3](./Lecture 3.md)
+
+- [x] [Lecture 4](./Lecture 4.md)
+
+- [x] [Lecture 5](./Lecture 5.md)
+
+- [x] [Lecture 6](./Lecture 6.md)
 
 
 
