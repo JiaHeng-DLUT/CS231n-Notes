@@ -1,5 +1,7 @@
 ## Lecture 2
 
+[TOC]
+
 ### Challenges
 
 ![img](assets/challenges.jpeg)
@@ -9,6 +11,10 @@
 ![cs231n_2017_lecture220](assets/cs231n_2017_lecture220.png)
 
 ![cs231n_2017_lecture231](assets/cs231n_2017_lecture231.png)
+
+![1557329135653](assets/1557329135653.png)
+
+> [计算两个矩阵之间的欧式距离](https://blog.csdn.net/frankzd/article/details/80251042)
 
 ### K-Nearest Neighbors
 
